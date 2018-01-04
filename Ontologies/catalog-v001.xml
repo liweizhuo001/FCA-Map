@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1506241810199" name="duplicate:http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0" uri="oaei_FMA_small_overlapping_nci.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1506241810199" name="duplicate:http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0" uri="oaei_FMA_small_overlapping_snomed.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1506241810199" name="duplicate:http://bioontology.org/projects/ontologies/fma/fmaOwlDlComponent_2_0" uri="oaei_FMA_whole_ontology.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1506241810199" name="http://cmt" uri="cmt.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1506241810199" name="http://conference" uri="Conference.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1506241810199" name="http://confOf" uri="confOf.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1506241810199" name="http://edas" uri="edas.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1506241810199" name="http://ekaw" uri="ekaw.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1506241810199" name="http://human.owl" uri="human.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1506241810199" name="http://iasted" uri="iasted.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1506241810199" name="http://mouse.owl" uri="mouse.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1506241810199" name="duplicate:http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl" uri="oaei_NCI_small_overlapping_fma.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1506241810199" name="duplicate:http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl" uri="oaei_NCI_small_overlapping_snomed.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1506241810199" name="duplicate:http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl" uri="oaei_NCI_whole_ontology.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1506241810199" name="http://sigkdd" uri="sigkdd.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1506241810199" name="duplicate:http://www.ihtsdo.org/snomed" uri="oaei_SNOMED_extended_overlapping_fma_nci.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1506241810199" name="duplicate:http://www.ihtsdo.org/snomed" uri="oaei_SNOMED_small_overlapping_fma.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1506241810199" name="duplicate:http://www.ihtsdo.org/snomed" uri="oaei_SNOMED_small_overlapping_nci.owl"/>
+    </group>
+</catalog>

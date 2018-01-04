@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+	<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>??</type>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ekaw#Social_Event"/>
+			<entity2 rdf:resource="http://iasted#Social_program"/>
+			<measure rdf:datatype="xsd:float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ekaw#Tutorial"/>
+			<entity2 rdf:resource="http://iasted#Tutorial"/>
+			<measure rdf:datatype="xsd:float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ekaw#Camera_Ready_Paper"/>
+			<entity2 rdf:resource="http://iasted#Camera_ready_manuscript_deadline"/>
+			<measure rdf:datatype="xsd:float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ekaw#Programme_Brochure"/>
+			<entity2 rdf:resource="http://iasted#Social_program"/>
+			<measure rdf:datatype="xsd:float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ekaw#Person"/>
+			<entity2 rdf:resource="http://iasted#Person"/>
+			<measure rdf:datatype="xsd:float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ekaw#Document"/>
+			<entity2 rdf:resource="http://iasted#Document"/>
+			<measure rdf:datatype="xsd:float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ekaw#Review"/>
+			<entity2 rdf:resource="http://iasted#Review"/>
+			<measure rdf:datatype="xsd:float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ekaw#Session"/>
+			<entity2 rdf:resource="http://iasted#Session"/>
+			<measure rdf:datatype="xsd:float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ekaw#Review"/>
+			<entity2 rdf:resource="http://iasted#Reviewer"/>
+			<measure rdf:datatype="xsd:float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ekaw#Conference_Banquet"/>
+			<entity2 rdf:resource="http://iasted#Dinner_banquet"/>
+			<measure rdf:datatype="xsd:float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ekaw#Web_Site"/>
+			<entity2 rdf:resource="http://iasted#Place"/>
+			<measure rdf:datatype="xsd:float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ekaw#Session_Chair"/>
+			<entity2 rdf:resource="http://iasted#Session_chair"/>
+			<measure rdf:datatype="xsd:float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ekaw#Proceedings_Publisher"/>
+			<entity2 rdf:resource="http://iasted#Publication"/>
+			<measure rdf:datatype="xsd:float">1.0</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+	</Alignment>
+</rdf:RDF>
