@@ -1,0 +1,9 @@
+;"Coverage=Single";"Coverage=Multiple";"Monotonicity=Yes";"Monotonicity=No";"SolutionSpace=One";"SolutionSpace=Multiple"
+"Egyed";"x";;"x";;;"x"
+"Xiong";"x";;;"x";"x";
+"Kleiner";;"x";"x";;"x";
+"Almeida";;"x";;"x";;"x"
+"Nentwich";"x";;;"x";;"x"
+"VanDerStraeten";"x";;;"x";;"x"
+"Mens";"x";;;"x";;"x"
+"PinnaPuissant";;"x";;"x";;"x"
