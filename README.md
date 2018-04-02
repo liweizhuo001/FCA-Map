@@ -3,7 +3,7 @@ Copyright 2017 by  Academy of Mathematics and Systems Science Chinese Academy of
 
 FCA_Map is a tool for ontology matching, which uses the Formal Concept Analysis formalism to cluster the commonalities across ontologies.
 
-Time: 12/26/2017  Author: Mengyi Zhao & Weizhuo Li   Mail:  liweizhuo@amss.ac.cn & zhaomengyi14@mails.ucas.ac.cn
+Time: 12/26/2017  Author: Mengyi Zhao & Weizhuo Li   Mail:  liweizhuo@amss.ac.cn & chenguowei17@mails.ucas.ac.cn
 
 Software: Java 1.7 or higher.   
 Hardware: 16GB RAM or more. The CPU is not limited, but we still hope that the CPU in your computer is as efficient as possible, which can reduce a lot of time consumption.
@@ -25,8 +25,8 @@ The file alignment contains all the results of four tracks.
 
 More details for Reading:  
 [1] Zhao M, Zhang S.  "Identifying and validating ontology mappings by formal concept analysis" available at:   
-http://disi.unitn.it/~pavel/om2016/papers/om2016_Tpaper6.pdf
-[2] Zhao M, Zhang S.  "FCA-Map results for OAEI 2016"  available at:   
-http://disi.unitn.it/~pavel/om2016/papers/oaei16_paper7.pdf
-[3] Zhao, M., Zhang, S., Li, W., & Chen, G. "Matching biomedical ontologies based on formal concept analysis"  available at:  
-https://link.springer.com/article/10.1186/s13326-018-0178-9
+http://disi.unitn.it/~pavel/om2016/papers/om2016_Tpaper6.pdf  
+[2] Zhao M, Zhang S.  "FCA-Map results for OAEI 2016"  available at:     
+http://disi.unitn.it/~pavel/om2016/papers/oaei16_paper7.pdf  
+[3] Zhao, M., Zhang, S., Li, W., & Chen, G. "Matching biomedical ontologies based on formal concept analysis"  available at:    
+https://link.springer.com/article/10.1186/s13326-018-0178-9  
