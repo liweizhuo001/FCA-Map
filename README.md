@@ -1,7 +1,7 @@
 # FCA-Map
-Copyright 2018 by  Academy of Mathematics and Systems Science Chinese Academy of Sciences
+Copyright 2019 by Academy of Mathematics and Systems Science Chinese Academy of Sciences. Click the link https://github.com/icgw/FCA-Map for the new version.
 
-FCA_Map is a tool for ontology matching, which uses the Formal Concept Analysis formalism to cluster the commonalities across ontologies.
+FCA_Map is a tool for ontology matching, which uses the Formal Concept Analysis (FCA) formalism to cluster the commonalities across ontologies.
 
 Time: 9/12/2019  Author: Mengyi Zhao & Weizhuo Li   Mail:  liweizhuo@amss.ac.cn & liweizhuo2012@163.com
 Software: Java 1.7 or higher.   
@@ -22,6 +22,7 @@ We just provide some simple data sets and their reference alignments such as Con
 Results:  
 The file alignment contains all the results of four tracks.
 
+
 More details for Reading:  
-[1] Zhao, M., Zhang, S., Li, W., & Chen, G. "Matching biomedical ontologies based on formal concept analysis"  available at:    
+[1] Zhao M, Zhang S, Li W, et al. Matching biomedical ontologies based on formal concept analysis. Journal of biomedical semantics, 2018, 9(1): 11.  available at:    
 https://link.springer.com/article/10.1186/s13326-018-0178-9  
